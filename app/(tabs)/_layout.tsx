@@ -71,7 +71,7 @@ const TabsLayout = () => {
         }}
       />
       <Tabs.Screen
-        name="saved"
+        name="save"
         options={{
           title: 'Saved',
           headerShown: false,
